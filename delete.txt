@@ -1,2 +1,1 @@
-hello from delete
-adding new line to file
+everything new in modify
